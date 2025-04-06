@@ -1,3 +1,1 @@
-  # Hi
-
-  Go test
+Hi
